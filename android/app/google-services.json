@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "412114954228",
+    "project_id": "multi-store-app-dc27a",
+    "storage_bucket": "multi-store-app-dc27a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412114954228:android:a3d39b7e204e586af4bba1",
+        "android_client_info": {
+          "package_name": "com.utansa.multi_store_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412114954228-uho7t6j7kd9rkm9vb73lf1nsg5o4pit9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiwO6IJojUY4-MB0Xh0MjuwIbwz-lTIls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412114954228-uho7t6j7kd9rkm9vb73lf1nsg5o4pit9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
